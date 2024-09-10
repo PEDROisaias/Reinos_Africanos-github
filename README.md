@@ -1,4 +1,4 @@
- Sua Jornada pelos Reinos Africanos
+Antes de começar esse readme gostaria de informar que esse é meu primeiro projeto. Então tenho muito para melhorar no site. Espero que gostem!! Sua Jornada pelos Reinos Africanos
 E aí, aventureiro da história!
 
 Já imaginou explorar os mistérios dos antigos reinos africanos sem sair de casa? Com esse projeto, você pode fazer uma verdadeira viagem no tempo e descobrir as maravilhas dessas civilizações!
